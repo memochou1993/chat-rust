@@ -1,5 +1,5 @@
 [package]
-name = "chat-rust"
+name = "rocket-chat-app"
 version = "0.1.0"
 edition = "2021"
 
